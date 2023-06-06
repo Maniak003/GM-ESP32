@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name monitor-rescue)(type Legacy)(uri ${KIPRJMOD}/monitor-rescue.lib)(options "")(descr ""))
+)
